@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Madhukar's Great Gatsby Experiment`,
     author: {
       name: `Madhukar Kumar`,
       summary: `who lives and works in the Bay Area building useful things.`,
